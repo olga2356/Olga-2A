@@ -1,0 +1,4 @@
+este es un ejemplo de comomagregar o actualizar datos de githuby verlo en vs-code
+para realizar esto utulizamos el comando:
+git pull origin master o si trabajas en la rama main
+git pullorigin main
